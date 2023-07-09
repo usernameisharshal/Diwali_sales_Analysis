@@ -1,4 +1,4 @@
-is an exciting data analysis endeavor created using Python, designed to provide valuable insights into sales data during the festive season of Diwali. Leveraging Python's robust libraries for data manipulation, analysis, and visualization, this project aims to extract meaningful information from large datasets and uncover hidden patterns and trends in sales performance.
+It iss an exciting data analysis endeavor created using Python, designed to provide valuable insights into sales data during the festive season of Diwali. Leveraging Python's robust libraries for data manipulation, analysis, and visualization, this project aims to extract meaningful information from large datasets and uncover hidden patterns and trends in sales performance.
 
 By analyzing key sales metrics such as revenue, customer behavior, product popularity, and market trends, this project offers a comprehensive understanding of the Diwali sales landscape. Using statistical techniques, advanced data mining algorithms, and machine learning models, the project identifies correlations, predicts customer preferences, and identifies opportunities for growth.
 
